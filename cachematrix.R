@@ -1,5 +1,4 @@
 
-
 ## This function creates a specia matrix that can cache it's inverse
 ## The inverse is never itself calculated in makeCacheMatrix, but the variable ( Ix )
 ## is set to NULL to accomodate the user modifying the free variable in the global enviroment
